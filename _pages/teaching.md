@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Tel Aviv University
 
-### 2025–2026
+### '26–'27
 
 **Course Name Here**
 Brief description of the course.
