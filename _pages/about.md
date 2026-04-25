@@ -22,6 +22,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am postdoctoral fellow at Potsdam Universität's Centre for Post-Kantian Philosophy, and as of Oct 2025, a Lecturer at Tel Aviv University's Philosophy Faculty. Before these, I completed my doctoral work under the supervision of Prof. Eli Friedlander, and was a doctoral International Fox Fellow at Yale University under the supervision of Prof. Paul Franks. 
+I work on and through the history of philosophy. My research is based in the conviction that the history of philosophy provides a central axis for examining philosophical perspectives, because it is constituted by a heterogeneous multiplicity of views on central issues. I am interested in expressing and explicating ideas regarding technique, value and knowledge by putting that heterogeneity to work. Systematically, my interests focus on the philosophy of science and technology, and on the theory of value. Historically, I focus on post-Kantian philosophy--with an emphasis on German Idealism and process philosophy.
 
-I work on and through the history of philosophy. My main systematic interests are the philosophies of science and technology, as well as the theory of value. My main historical interest is post-Kantian philosophy--so far, with a focus on German Idealism.
+I am currently postdoctoral fellow at Potsdam Universität's Centre for Post-Kantian Philosophy. As of Oct 2026, I am a Lecturer at Tel Aviv University's Philosophy Faculty. Before these, I completed my doctoral work under the supervision of Prof. Eli Friedlander, and was a doctoral International Fox Fellow at Yale University under the supervision of Prof. Paul Franks. I was also a member of Prof. Larry Horwitz's Mathematical Physics Seminar.
+
+Please contact me at [attaykremer@mail.tau.ac.il](attaykremer@mail.tau.ac.il)
