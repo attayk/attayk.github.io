@@ -1,4 +1,4 @@
------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
@@ -6,8 +6,7 @@ title: Attay Kremer # the website title (if blank, full name will be used instea
 first_name: Attay
 middle_name:
 last_name: Kremer
-contact_note: >
-  Contact me at attaykremer@mail.tau.ac.il
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Lecturer in Philosophy, Tel Aviv University
 
@@ -84,7 +83,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Unscientific and Untimely # blog_name will be displayed in your blog page
+blog_name: "Unscientific and Untimely" # blog_name will be displayed in your blog page
 blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
